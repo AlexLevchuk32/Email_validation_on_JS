@@ -1,0 +1,14 @@
+body {
+	display: flex;
+	min-width: 100%;
+	min-height: 80vh;
+	justify-content: center;
+	align-items: center;
+}
+
+input {
+	min-width: 350px;
+	min-height: 25px;
+	font-size: 20px;
+	color: #fff;
+}
